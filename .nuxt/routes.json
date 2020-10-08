@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/home",
+        "_name": "_05e2fba2"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/login",
+        "_name": "_b60be7ce"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/login",
+        "_name": "_b60be7ce"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/profile",
+        "_name": "_27ce3a59"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/settings",
+        "_name": "_63392173"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/editor",
+        "_name": "_2488ca86"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/xlkang/workspace/demos/realworld-nuxtjs/pages/article",
+        "_name": "_0e987da6"
+      }
+    ],
+    "_name": "_0ceb170c"
+  }
+]
